@@ -1,7 +1,7 @@
 # Hello, I'm Maurice aka mobarto
 <a href="https://www.linkedin.com/in/maurice-barton-3ba406243/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am new in the cybersec community and ready to learn! I have profound interest in technology and a dedication to solving complex problems.
+I am in the cybersec community and ready to learn! I have profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
 
